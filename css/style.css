@@ -6,3 +6,11 @@
   border: 1px solid black;
   height: 150px;
 }
+
+body {
+  background-color: yellow;
+}
+
+.x {
+  background-color: white;
+}

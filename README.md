@@ -1,4 +1,33 @@
-# Tic Tac Toe - Weekend Lab
+# Tic-Tac-Toe Game
+
+<img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="100">
+
+## Template - Title
+
+<i> Some quick description of what this repo is about. </i>
+
+This is the first example of me intergrading jQuery with HTML and CSS. The result is a tic-tac-toe game that users can play on the web.
+
+## Technologies Used
+
+<li> jQuery </li>
+<li> HTML </li>
+<li> CSS </li>
+
+## Code I'm Proud Of
+
+```javascript
+  // var catz = [];
+  //
+  // function allTheCatz(input) {
+  //   catz.create();
+  // };
+```
+
+### Screen Shots (Optional)
+
+
+<!-- # Tic Tac Toe - Weekend Lab
 
 **Objective:** Build a tic-tac-toe game in HTML, CSS, and JavaScript.
 
@@ -101,4 +130,4 @@ Remind yourself how tic-tac-toe works by playing a few games with a classmate.
 
 * As you make code changes, frequently commit and push to GitHub.
 * Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo.
-* When we come back, you'll show off your tic-tac-toe game in a "science fair" style open presentation!
+* When we come back, you'll show off your tic-tac-toe game in a "science fair" style open presentation! -->
